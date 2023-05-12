@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Visual Studio Project\plantsVSzombies\plantsVSzombies\main.cpp(54,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Visual Studio Project\plantsVSzombies\plantsVSzombies\main.cpp(97,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Visual Studio Project\plantsVSzombies\plantsVSzombies\main.cpp(105,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  plantsVSzombies.vcxproj -> E:\Visual Studio Project\plantsVSzombies\Debug\plantsVSzombies.exe
